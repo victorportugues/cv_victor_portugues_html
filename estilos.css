@@ -15,12 +15,9 @@ h2{
     color: #37474f;
     text-align: left;
 }
-#cabecera{
+th{
     text-decoration: underline;
-}
-#cuerpotabla{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-style: italic;
+    text-align: left; 
 }
 #año{
     color: brown;
