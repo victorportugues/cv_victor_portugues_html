@@ -19,10 +19,16 @@ th{
     text-decoration: underline;
     text-align: left; 
 }
-#año{
-    color: brown;
+#mail{
+    color: #0051ff;
+    text-decoration: underline;
 }
-#centro{
+.estudios{
     color: brown;
     text-transform: uppercase;
+}
+.titulo{
+    color: black;
+    text-transform: capitalize;
+    font-weight: bold;
 }
